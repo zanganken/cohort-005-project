@@ -5,6 +5,10 @@ Do these checks in this order before you report a change to `app/` as complete:
 1. `npm run typecheck`
 2. `npm run test`
 
+## Formatting
+
+Format with Prettier. Do not change `.prettierrc`.
+
 ## When something breaks
 
 | Symptom                                         | Cause                                                                                                  |
